@@ -13,6 +13,6 @@
 - [YourTeam](https://github.com/MihailJordanov/YourTeam)
 
 ### 🔐 Other Projects
-- [Escape-Room-Editor](https://github.com/MihailJordanov/Escape-Room-Editor)w
+- [Escape-Room-Editor](https://github.com/MihailJordanov/Escape-Room-Editor)
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
 
