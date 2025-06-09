@@ -15,4 +15,4 @@
 ### 🔐 Other Projects
 - [Escape-Room-Editor](https://github.com/MihailJordanov/Escape-Room-Editor)
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
-
+- [Super Hero Game](https://github.com/MihailJordanov/Super-Hero-Game-Project)
