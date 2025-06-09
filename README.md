@@ -1,4 +1,4 @@
-# 👋 Hi! I am Михаил
+# 👋 Hi! I am Mihail
 
 ## 📁 FMI
 
