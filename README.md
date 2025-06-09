@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi! I am Михаил
 
-<!--
-**MihailJordanov/MihailJordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📁 FMI
 
-Here are some ideas to get you started:
+- [Introduction_to_programming](https://github.com/MihailJordanov/Introduction_to_programming)
+- [Object-oriented-programming-FMI](https://github.com/MihailJordanov/Object-oriented-programming-FMI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My_Projects
+
+### ⚽ Football Projects
+- [web-proj-Four](https://github.com/MihailJordanov/web-proj-Four)
+- [juventsukz-website-v5](https://github.com/MihailJordanov/juventsukz-website-v5)
+- 🔒 `YourTeam` *(Private repo)*
+
+### 🔐 Other Projects
+- 🔒 `Escape-Room-Editor` *(Private repo)*
+- [Encrypting](https://github.com/MihailJordanov/Encrypting)
