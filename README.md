@@ -10,8 +10,9 @@
 ### ⚽ Football Projects
 - [web-proj-Four](https://github.com/MihailJordanov/web-proj-Four)
 - [juventsukz-website-v5](https://github.com/MihailJordanov/juventsukz-website-v5)
-- 🔒 `YourTeam` *(Private repo)*
+- [YourTeam](https://github.com/MihailJordanov/YourTeam)
 
 ### 🔐 Other Projects
-- 🔒 `Escape-Room-Editor` *(Private repo)*
+- [Escape-Room-Editor](https://github.com/MihailJordanov/Escape-Room-Editor)w
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
+
