@@ -12,7 +12,7 @@
 - [juventsukz-website-v5](https://github.com/MihailJordanov/juventsukz-website-v5)
 - [YourTeam](https://github.com/MihailJordanov/YourTeam)
 
-### ![Unity](https://img.icons8.com/?size=20&id=vJMs5fU2hLbg&format=png&color=000000) Unity Projects
+### 🎲 Unity Projects
 - [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
 
 ### 🔐 Other Projects
