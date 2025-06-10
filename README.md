@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3aefa65f-53c1-4fc7-82d8-fa88b4215900)# 👋 Hi! I am Mihail
+👋 Hi! I am Mihail
 
 ## 📁 FMI
 
@@ -12,7 +12,7 @@
 - [juventsukz-website-v5](https://github.com/MihailJordanov/juventsukz-website-v5)
 - [YourTeam](https://github.com/MihailJordanov/YourTeam)
 
-### ![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000) Unity Projects
+### ![Unity](https://img.icons8.com/?size=20&id=26029&format=png&color=000000) Unity Projects
 - [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
 
 ### 🔐 Other Projects
