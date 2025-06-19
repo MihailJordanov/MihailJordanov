@@ -11,6 +11,7 @@
 
 ### 🕹️ Pygame Projects
 - [Hero Hop](https://github.com/MihailJordanov/Hero-Hop)
+- [The Night Cage](https://github.com/MihailJordanov/The-Night-Cage)
 
 ### 🔐 FMI Projects
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
