@@ -9,6 +9,9 @@
 - [The Fall Of The Mafia](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
 - [Tower Tactics Triumph](https://github.com/MihailJordanov/The-Fall-Of-The-Mafia)
 
+### 🕹️ Pygame Projects
+- [Hero Hop](https://github.com/MihailJordanov/HeroHop)
+
 ### 🔐 FMI Projects
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
 - [Super Hero Game](https://github.com/MihailJordanov/Super-Hero-Game-Project)
