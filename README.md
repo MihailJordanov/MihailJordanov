@@ -3,7 +3,7 @@
 ## 📁 My_Projects
 
 ### ⚽ Football Project (Main)
-- [GoalTrakcer](https://github.com/MihailJordanov/YourTeam)
+- [GoalTrakcer](https://github.com/MihailJordanov/GoalTracker)
 
 ### 🎲 Unity Projects
 - [The Fall Of The Mafia](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
