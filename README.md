@@ -1,21 +1,14 @@
 👋 Hi! I am Mihail
 
-## 📁 FMI
-
-- [Introduction_to_programming](https://github.com/MihailJordanov/Introduction_to_programming)
-- [Object-oriented-programming-FMI](https://github.com/MihailJordanov/Object-oriented-programming-FMI)
-
 ## 📁 My_Projects
 
-### ⚽ Football Projects
-- [web-proj-Four](https://github.com/MihailJordanov/web-proj-Four)
-- [juventsukz-website-v5](https://github.com/MihailJordanov/juventsukz-website-v5)
-- [YourTeam](https://github.com/MihailJordanov/YourTeam)
+### ⚽ Football Project (Main)
+- [GoalTrakcer](https://github.com/MihailJordanov/YourTeam)
 
 ### 🎲 Unity Projects
-- [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
+- [The Fall Of The Mafia](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
+- [Tower Tactics Triumph](https://github.com/MihailJordanov/The-Fall-Of-The-Mafia)
 
-### 🔐 Other Projects
-- [Escape-Room-Editor](https://github.com/MihailJordanov/Escape-Room-Editor)
+### 🔐 FMI Projects
 - [Encrypting](https://github.com/MihailJordanov/Encrypting)
 - [Super Hero Game](https://github.com/MihailJordanov/Super-Hero-Game-Project)
