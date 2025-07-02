@@ -8,6 +8,7 @@
 ### 🎲 Unity Projects
 - [The Fall Of The Mafia](https://github.com/MihailJordanov/The-Fall-Of-The-Mafia)
 - [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph)
+- [XEx](https://github.com/MihailJordanov/XEx)
 
 ### 🕹️ Pygame Projects
 - [Hero Hop](https://github.com/MihailJordanov/Hero-Hop)
