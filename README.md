@@ -1,6 +1,8 @@
 👋 Hi! I am Mihail
 
 ## 📁 **My_Projects**
+Here are some of my main and most significant projects.
+
 
 ### ⚽ **Football Project (Main)**
 - ⚽ [GoalTracker](https://github.com/MihailJordanov/GoalTracker) — a web app for tracking and analyzing your football statistics.
@@ -10,8 +12,7 @@
 ### 🎮 **Unity Projects**
 - 🔫 [The Fall Of The Mafia](https://github.com/MihailJordanov/The-Fall-Of-The-Mafia) — first-person shooter game set in a dark mafia world.  
 - 🏰 [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph) — classic tower defense strategy game.  
-- ❌ [XEx](https://github.com/MihailJordanov/XEx) — a fun and fast-paced **party app** designed for loud, energetic group nights.  
-  Perfect for big gatherings and chaotic moments — XEx turns any party into a challenge of reflexes, laughter, and friendly competition. 🎉
+- ❌ [XEx](https://github.com/MihailJordanov/XEx) — a fun party app made for loud nights and big, chaotic gatherings. 🎉
 - 🧛‍♂️ [Adventurorama Survivors](https://github.com/MihailJordanov/Adventurorama-Survivors) — Vampire Survivors–like 2D action survival game.
 
 ---
