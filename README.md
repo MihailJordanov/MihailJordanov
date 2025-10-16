@@ -1,11 +1,24 @@
 👋 Hi! I am Mihail
 
-## 📁 **My_Projects**
-Here are some of my main and most significant projects.
+---
+
+🎮 **My_Projects**
+> 💫 My biggest and favorite projects — creative worlds, cool ideas, and tons of fun! 💫
+
+---
+
+
 
 
 ### ⚽ **Football Project (Main)**
 - ⚽ [GoalTracker](https://github.com/MihailJordanov/GoalTracker) — a web app for tracking and analyzing your football statistics.
+
+---
+
+### 🧩 **Godot Projects**
+- 🏰 [Adventutorama RPG](https://github.com/MihailJordanov/AdventutoramaRPG) — classic 2D RPG adventure full of puzzles and battles.  
+- ⚡ [XExBG](https://github.com/MihailJordanov/XExBG) — Godot remake and evolution of the XEx project (Bulgaria version).  
+- 🧠 [Synapse](https://github.com/MihailJordanov/Synapse) — a puzzle-driven project exploring mind-linking mechanics.
 
 ---
 
@@ -14,13 +27,6 @@ Here are some of my main and most significant projects.
 - 🏰 [Tower Tactics Triumph](https://github.com/MihailJordanov/Tower-Tactics-Triumph) — classic tower defense strategy game.  
 - ❌ [XEx](https://github.com/MihailJordanov/XEx) — a fun party app made for loud nights and big, chaotic gatherings. 🎉
 - 🧛‍♂️ [Adventurorama Survivors](https://github.com/MihailJordanov/Adventurorama-Survivors) — Vampire Survivors–like 2D action survival game.
-
----
-
-### 🧩 **Godot Projects**
-- 🏰 [Adventutorama RPG](https://github.com/MihailJordanov/AdventutoramaRPG) — classic 2D RPG adventure full of puzzles and battles.  
-- ⚡ [XExBG](https://github.com/MihailJordanov/XExBG) — Godot remake and evolution of the XEx project (Bulgaria version).  
-- 🧠 [Synapse](https://github.com/MihailJordanov/Synapse) — a puzzle-driven project exploring mind-linking mechanics.
 
 ---
 
