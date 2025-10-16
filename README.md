@@ -1,9 +1,12 @@
 👋 Hi! I am Mihail
 
----
 
-🎮 **My_Projects**
-> 💫 My biggest and favorite projects — creative worlds, cool ideas, and tons of fun! 💫
+
+## 🎮✨ **My_Projects**
+> **My biggest and favorite projects — creative worlds, cool ideas, and tons of fun!**
+
+
+
 
 ---
 
